@@ -6,7 +6,8 @@ Tampilan Utama
 <img width="878" height="492" alt="Screenshot 2026-06-04 102006" src="https://github.com/user-attachments/assets/79a1363a-51e2-4b18-a0a1-5fbe17b483e3" />
 
 Pilih Level
-<img width="874" height="500" alt="Screenshot 2026-06-04 102116" src="https://github.com/user-attachments/assets/1750279d-d0f0-4fee-9078-2799fbb79af1" />
+<img width="880" height="490" alt="Screenshot 2026-06-04 102104" src="https://github.com/user-attachments/assets/6cb221dd-48e3-4583-a894-7653e3a0538a" />
+
 
 Level 1
 <img width="874" height="500" alt="Screenshot 2026-06-04 102116" src="https://github.com/user-attachments/assets/1750279d-d0f0-4fee-9078-2799fbb79af1" />
